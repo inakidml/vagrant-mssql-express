@@ -12,6 +12,8 @@ This was just an experiment on how to set things up for a project I worked on th
 * VirtualBox 4.3+ (tested on 4.3.16 on an Ubuntu host)
 * Around `12GB` of disk space (`3GB` for base box + `~9GB` for the VM)
 
+* Download http://download.microsoft.com/download/0/4/B/04BE03CD-EAF3-4797-9D8D-2E08E316C998/SQLEXPRWT_x64_ENU.exe
+
 ## Base box information
 
 * Configured with 2 CPU and 2 GB memory by default.
